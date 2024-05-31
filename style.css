@@ -1,0 +1,36 @@
+/* Reset CSS */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Default Styles */
+body {
+    background-color: #f4f4f4;
+    color: #5a2626;
+}
+
+header, footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Light Theme */
+.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Dark Theme */
+.dark-theme {
+    background-color: #333333;
+    color: #ffffff;
+}
